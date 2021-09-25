@@ -1,0 +1,16 @@
+.product{
+    border: 1px solid #f77f00;
+    border-radius: 10px;
+
+}
+.product-header{
+    color: #f77f00;
+}
+.product-button{
+    background-color: #f77f00; 
+    padding: 5px 25px; 
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    color: antiquewhite;
+}

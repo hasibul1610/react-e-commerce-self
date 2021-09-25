@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #003049;
+    
+}
+.navbar a{
+    color: antiquewhite;
+    font-size: 24px;
+}
+.navbar a:hover{
+    color: #e4e4e4;
+    font-size: 24px;
+}
+
+.navbar-toggler {
+    border-color: #010301;
+    color: brown;
+}
